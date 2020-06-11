@@ -1,2 +1,2 @@
 # dio_aula_bootstrap
-Curso Full Stack Developer - DIO - Atividade: Utilizando Bootstrap
+DIO - Curso Full Stack Developer - Atividade: Utilizando Bootstrap
